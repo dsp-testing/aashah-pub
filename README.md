@@ -1,6 +1,3 @@
 # aashah-pub
-test pub
 
-eyJrIjoiNTViZThiNjA4ZThiM2Q4MWUyZjc0MmZhNjhmNjcxZmNkMjA2ZmU2YiIsIm4iOiJhIiwiaWQiOjQ3Mzk3NX0==
-
-eyJrIjoiNTViZThiNjA4ZThiM2Q4MWUyZjc0MmZhNjhmNjcxZmNkMjA2ZmU2YiIsIm4iOiJhIiwiaWQiOjQ3Mzk3NX0=
+CLOJARS_220584d592da432850a9f48df2afba5dde4410ac13624acef38e9ba00a00
