@@ -1,0 +1,2 @@
+key: AKIA3RZVCC6FXHRRFM6N
+secret: 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
